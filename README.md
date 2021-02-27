@@ -1,1 +1,1 @@
-# Intro-to-CS
+# CS 115: Intro-to-CS
